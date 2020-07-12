@@ -3,6 +3,6 @@ set(sources
 )
 
 set(headers
-    include/size_aware_cache.h
-    include/utils.h
+    include/sizeawarecaches/size_aware_cache.h
+    include/sizeawarecaches/utils.h
 )

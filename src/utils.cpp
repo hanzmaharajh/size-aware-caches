@@ -1,7 +1,6 @@
-#include "utils.h"
+#include "sizeawarecaches/utils.h"
 
 #include <climits>
-#include <cstdint>
 
 #if defined(_MSC_VER)
 #include <immintrin.h>

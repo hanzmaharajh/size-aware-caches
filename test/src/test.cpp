@@ -1,12 +1,11 @@
-#include "size_aware_cache.h"
+#include "sizeawarecaches/size_aware_cache.h"
+#include "sizeawarecaches/utils.h"
 
 #include <chrono>
 #include <cmath>
 #include <numeric>
 
 #include <gtest/gtest.h>
-
-#include "utils.h"
 
 using namespace std::chrono_literals;
 
